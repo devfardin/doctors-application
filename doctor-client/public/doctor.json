@@ -1,0 +1,366 @@
+[
+  {
+      "name": "Dr. Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "title": "Cardiologist",
+      "profile": "https://i.ibb.co/FXyC23N/Rectangle-15.png",
+      "address": "123 Medical Street, Cityville",
+      "mapLocation": "latitude: 40.7128, longitude: -74.0060",
+      "feedback": [
+          {
+              "name": "John Doe",
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "email": "john.doe@example.com",
+              "rating": 5,
+              "description": "Dr. Johnson provided excellent care during my emergency."
+          },
+          {
+              "name": "Jane Smith",
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "email": "jane.smith@example.com",
+              "rating": 4,
+              "description": "Great experience with Dr. Johnson for genetic counseling."
+          }
+      ],
+      "price": "150",
+      "shortDescription": "Dedicated cardiologist with a passion for patient care.",
+      "description": "Dr. Emily Johnson, an accomplished cardiologist, is dedicated to delivering exceptional care to her patients. With extensive experience in cardiology, she prioritizes the well-being of those under her care, ensuring the highest quality of medical attention and support Beyond her clinical responsibilities, Dr. Johnson actively engages in ongoing medical education and remains at the forefront of advancements in cardiology. Her dedication to the well-being of her patients and her contributions to the field make her a trusted and respected figure in the world of cardiology. Dr. Johnson's expertise is backed by a solid educational foundation, holding a Doctor of Medicine (MD) from Medical University and a Bachelor of Science in Biology from City College. Her journey in healthcare has been marked by significant milestones, including roles as an Associate Professor at Medical University and a Senior Consultant at Healthcare Solutions.",
+      "availableTime": "Monday to Friday, 9:00 AM - 5:00 PM",
+      "offeredServices": [
+          {
+              "offerType": "Emergency Medicine",
+              "offerDescription": [
+                  {
+                      "name": "Immediate Care",
+                      "description": "Emergency Medicine provides immediate care for critical medical conditions. Our experienced medical team is available 24/7 to handle emergencies ensuring you receive prompt and high-quality medical attention.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Trauma Response",
+                      "description": "Our Emergency Medicine services include specialized trauma response to address severe injuries. We have a dedicated trauma team and state-of-the-art facilities to handle critical situations.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Diagnostic Evaluation",
+                      "description": "In addition to immediate care, we conduct thorough diagnostic evaluations to assess and diagnose the root cause of medical emergencies. Our advanced diagnostic tools aid in accurate and swift assessments.",
+                      "price": "300"
+                  },
+                  {
+                      "name": "Pain Management",
+                      "description": "Emergency Medicine extends to effective pain management strategies We prioritize relieving pain and discomfort in emergency situations, ensuring patients receive the necessary relief and comfort.",
+                      "price": "180"
+                  }
+              ]
+          },
+          {
+              "offerType": "Medical Genetics",
+              "offerDescription": [
+                  {
+                      "name": "Genetic Testing",
+                      "description": "Our Medical Genetics services include comprehensive genetic testing to identify hereditary conditions and assess the risk of genetic disorders. We use advanced genetic screening techniques for accurate and detailed results.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Counseling Services",
+                      "description": "Alongside genetic testing, we provide professional counseling services to individuals and families. Our genetic counselors offer support, guidance, and information to help you make informed decisions.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Family Planning Consultation",
+                      "description": "Medical Genetics involves family planning consultations, where our experts provide insights into family health history and assist in making informed decisions about family planning.",
+                      "price": "220"
+                  },
+                  {
+                      "name": "Genomic Research",
+                      "description": "We actively contribute to genomic research, participating in studies to advance our understanding of genetics and contribute to medical breakthroughs. Your involvement in research is valued and appreciated.",
+                      "price": "300"
+                  }
+              ]
+          }
+      ],
+      "experience": [
+          "Medical & General Hospital, 2018 - 2020",
+          "City Medical Center, 2019 - 2018",
+          "Healthcare Solutions, 2014 - 2016",
+          "Medical University, 2010 - 2014"
+      ],
+      "education": [
+          {
+              "plateform": "Medical University",
+              "Deploma": "BDS",
+              "to": "2017",
+              "from": "2020"
+          },
+          {
+              "plateform": "City College",
+              "Deploma": "MDS",
+              "to": "2017",
+              "from": "2020"
+          }
+      ],
+      "specializations": [
+        "American Board of Cardiology",
+        "American Board of Internal Medicine",
+        "Cardiac Electrophysiology",
+        "Interventional Cardiology",
+        "Cardiovascular Imaging"
+      ],      
+      "languages": [
+          "Chinese",
+          "English",
+          "Igbo",
+          "Italian",
+          "French"
+      ],
+      "gallery": [
+          "https://i.ibb.co/9V20XRP/08-1.jpg",
+          "https://i.ibb.co/Nr7rx6P/sidebar01.jpg",
+          "https://i.ibb.co/6RpKvKK/07-1.jpg",
+          "https://i.ibb.co/y8qFsmd/14-1-255x200.jpg",
+          "https://i.ibb.co/8dS5B85/15-1.jpg"
+      ]
+  },
+  {
+      "name": "Dr. Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "title": "Cardiologist",
+      "profile": "https://i.ibb.co/1XC49LS/Rectangle-15-1.png",
+      "address": "123 Medical Street, Cityville",
+      "mapLocation": "latitude: 40.7128, longitude: -74.0060",
+      "feedback": [
+          {
+              "name": "John Doe",
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "email": "john.doe@example.com",
+              "rating": 5,
+              "description": "Dr. Johnson provided excellent care during my emergency."
+          },
+          {
+              "name": "Jane Smith",
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "email": "jane.smith@example.com",
+              "rating": 4,
+              "description": "Great experience with Dr. Johnson for genetic counseling."
+          }
+      ],
+      "price": "150",
+      "shortDescription": "Dedicated cardiologist with a passion for patient care.",
+      "description": "Dr. Emily Johnson, a seasoned cardiologist, is deeply committed to delivering unparalleled care to her patients. With a wealth of experience and a passion for cardiology, she strives to ensure that each individual receives the highest standard of medical attention. Dr. Johnson's expertise is backed by a solid educational foundation holding a Doctor of Medicine (MD) from Medical University and a Bachelor of Science in Biology from City College. Her journey in healthcare has been marked by significant milestones, including roles as an Associate Professor at Medical University and a Senior Consultant at Healthcare Solutions Patients appreciate Dr. Johnson's warm demeanor and her ability to make complex medical information accessible",
+      "availableTime": "Monday to Friday, 9:00 AM - 5:00 PM",
+      "offeredServices": [
+          {
+              "offerType": "Emergency Medicine",
+              "offerDescription": [
+                  {
+                      "name": "Immediate Care",
+                      "description": "Emergency Medicine provides immediate care for critical medical conditions. Our experienced medical team is available 24/7 to handle emergencies, ensuring you receive prompt and high-quality medical attention.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Trauma Response",
+                      "description": "Our Emergency Medicine services include specialized trauma response to address severe injuries. We have a dedicated trauma team and state-of-the-art facilities to handle critical situations.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Diagnostic Evaluation",
+                      "description": "In addition to immediate care, we conduct thorough diagnostic evaluations to assess and diagnose the root cause of medical emergencies. Our advanced diagnostic tools aid in accurate and swift assessments.",
+                      "price": "300"
+                  },
+                  {
+                      "name": "Pain Management",
+                      "description": "Emergency Medicine extends to effective pain management strategies We prioritize relieving pain and discomfort in emergency situations, ensuring patients receive the necessary relief and comfort.",
+                      "price": "180"
+                  }
+              ]
+          },
+          {
+              "offerType": "Medical Genetics",
+              "offerDescription": [
+                  {
+                      "name": "Genetic Testing",
+                      "description": "Our Medical Genetics services include comprehensive genetic testing to identify hereditary conditions and assess the risk of genetic disorders. We use advanced genetic screening techniques for accurate and detailed results.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Counseling Services",
+                      "description": "Alongside genetic testing, we provide professional counseling services to individuals and families. Our genetic counselors offer support, guidance, and information to help you make informed decisions.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Family Planning Consultation",
+                      "description": "Medical Genetics involves family planning consultations, where our experts provide insights into family health history and assist in making informed decisions about family planning.",
+                      "price": "220"
+                  },
+                  {
+                      "name": "Genomic Research",
+                      "description": "We actively contribute to genomic research, participating in studies to advance our understanding of genetics and contribute to medical breakthroughs. Your involvement in research is valued and appreciated.",
+                      "price": "300"
+                  }
+              ]
+          }
+      ],
+      "experience": [
+          "Medical & General Hospital, 2018 - 2020",
+          "City Medical Center, 2019 - 2018",
+          "Healthcare Solutions, 2014 - 2016",
+          "Medical University, 2010 - 2014"
+      ],
+      "education": [
+          {
+              "plateform": "Medical University",
+              "Deploma": "BDS",
+              "to": "2017",
+              "from": "2020"
+          },
+          {
+              "plateform": "City College",
+              "Deploma": "MDS",
+              "to": "2017",
+              "from": "2020"
+          }
+      ],
+      "specializations": [
+        "American Board of Cardiology",
+        "American Board of Internal Medicine",
+        "Board Certified Electrophysiologist",
+        "Fellow of the American College of Cardiology",
+        "Certified Heart Failure Specialist"
+      ],      
+      "languages": [
+          "Chinese",
+          "English",
+          "Igbo",
+          "Italian",
+          "French"
+      ],
+      "gallery": [
+          "https://i.ibb.co/9V20XRP/08-1.jpg",
+          "https://i.ibb.co/Nr7rx6P/sidebar01.jpg",
+          "https://i.ibb.co/6RpKvKK/07-1.jpg",
+          "https://i.ibb.co/y8qFsmd/14-1-255x200.jpg",
+          "https://i.ibb.co/8dS5B85/15-1.jpg"
+      ]
+  },
+  {
+      "name": "Dr. Emily Johnson",
+      "email": "emily.johnson@example.com",
+      "title": "Cardiologist",
+      "profile": "https://i.ibb.co/zVN1p8k/Rectangle-15-2.png",
+      "address": "123 Medical Street, Cityville",
+      "mapLocation": "latitude: 40.7128, longitude: -74.0060",
+      "feedback": [
+          {
+              "name": "John Doe",
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "email": "john.doe@example.com",
+              "rating": 5,
+              "image": "https://amentotech.com/projects/doctreat/wp-content/uploads/2019/11/15-255x250.jpg",
+              "description": "Dr. Johnson provided excellent care during my emergency."
+          },
+          {
+              "name": "Jane Smith",
+              "email": "jane.smith@example.com",
+              "rating": 4,
+              "description": "Great experience with Dr. Johnson for genetic counseling."
+          }
+      ],
+      "price": "150",
+      "shortDescription": "Dedicated cardiologist with a passion for patient care.",
+      "description": "Dr. Emily Johnson, a distinguished cardiologist, brings extensive experience and unwavering dedication to her patients. With a Doctor of Medicine (MD) from Medical University and a Bachelor of Science in Biology from City College, Dr. Johnson is board-certified in Cardiology and Internal Medicine. Her illustrious career includes roles as an Associate Professor at Medical University and Senior Consultant at Healthcare Solutions. Fluent in Chinese, English, Igbo, Italian, and French, Dr. Johnson ensures effective communication with a diverse patient base. Known for her warm and patient-centric approach, Dr. Johnson provides top-notch cardiovascular care, offering services such as Emergency Medicine and Medical Genetics. Patients appreciate her Monday to Friday",
+      "availableTime": "Monday to Friday, 9:00 AM - 5:00 PM",
+      "offeredServices": [
+          {
+              "offerType": "Emergency Medicine",
+              "offerDescription": [
+                  {
+                      "name": "Immediate Care",
+                      "description": "Emergency Medicine provides immediate care for critical medical conditions. Our experienced medical team is available 24/7 to handle emergencies ensuring you receive prompt and high-quality medical attention.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Trauma Response",
+                      "description": "Our Emergency Medicine services include specialized trauma response to address severe injuries. We have a dedicated trauma team and state-of-the-art facilities to handle critical situations.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Diagnostic Evaluation",
+                      "description": "In addition to immediate care, we conduct thorough diagnostic evaluations to assess and diagnose the root cause of medical emergencies. Our advanced diagnostic tools aid in accurate and swift assessments.",
+                      "price": "300"
+                  },
+                  {
+                      "name": "Pain Management",
+                      "description": "Emergency Medicine extends to effective pain management strategies We prioritize relieving pain and discomfort in emergency situations, ensuring patients receive the necessary relief and comfort.",
+                      "price": "180"
+                  }
+              ]
+          },
+          {
+              "offerType": "Medical Genetics",
+              "offerDescription": [
+                  {
+                      "name": "Genetic Testing",
+                      "description": "Our Medical Genetics services include comprehensive genetic testing to identify hereditary conditions and assess the risk of genetic disorders. We use advanced genetic screening techniques for accurate and detailed results.",
+                      "price": "250"
+                  },
+                  {
+                      "name": "Counseling Services",
+                      "description": "Alongside genetic testing, we provide professional counseling services to individuals and families. Our genetic counselors offer support, guidance, and information to help you make informed decisions.",
+                      "price": "200"
+                  },
+                  {
+                      "name": "Family Planning Consultation",
+                      "description": "Medical Genetics involves family planning consultations, where our experts provide insights into family health history and assist in making informed decisions about family planning.",
+                      "price": "220"
+                  },
+                  {
+                      "name": "Genomic Research",
+                      "description": "We actively contribute to genomic research, participating in studies to advance our understanding of genetics and contribute to medical breakthroughs. Your involvement in research is valued and appreciated.",
+                      "price": "300"
+                  }
+              ]
+          }
+      ],
+      "experience": [
+          "Medical & General Hospital, 2018 - 2020",
+          "City Medical Center, 2019 - 2018",
+          "Healthcare Solutions, 2014 - 2016",
+          "Medical University, 2010 - 2014"
+      ],
+      "education": [
+          {
+              "plateform": "Medical University",
+              "Deploma": "BDS",
+              "to": "2017",
+              "from": "2020"
+          },
+          {
+              "plateform": "City College",
+              "Deploma": "MDS",
+              "to": "2017",
+              "from": "2020"
+          }
+      ],
+      "specializations": [
+        "American Board of Cardiology",
+        "American Board of Internal Medicine",
+        "Board Certified Electrophysiologist",
+        "Fellow of the American College of Cardiology",
+        "Certified Heart Failure Specialist"
+      ],
+      
+      "languages": [
+          "Chinese",
+          "English",
+          "Igbo",
+          "Italian",
+          "French"
+      ],
+      "gallery": [
+          "https://i.ibb.co/9V20XRP/08-1.jpg",
+          "https://i.ibb.co/Nr7rx6P/sidebar01.jpg",
+          "https://i.ibb.co/6RpKvKK/07-1.jpg",
+          "https://i.ibb.co/y8qFsmd/14-1-255x200.jpg",
+          "https://i.ibb.co/8dS5B85/15-1.jpg"
+      ]
+  }
+]

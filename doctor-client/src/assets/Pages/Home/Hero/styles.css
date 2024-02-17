@@ -1,0 +1,9 @@
+  .swiper-slide {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+  }
+  .swiper-slide img {
+    display: block;
+    object-fit: cover;
+  }
